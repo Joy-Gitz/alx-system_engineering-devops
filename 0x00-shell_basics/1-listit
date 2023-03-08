@@ -1,2 +1,6 @@
 #!/bin/bash
+<<<<<<< HEAD
 ls
+=======
+ls -la echo >> 1-listit
+>>>>>>> d2e8daf81bd291430d67f4fc16fb9fc2051df583
