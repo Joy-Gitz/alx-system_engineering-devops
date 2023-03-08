@@ -1,2 +1,2 @@
 #!/bin/bash
-ls echo >> 1-listit
+ls -l echo >> 1-listit
